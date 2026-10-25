@@ -1,19 +1,35 @@
 # Operating system files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 Desktop.ini
 __MACOSX/
-._*
 
-# Dependencies and generated output
+# Dependencies and virtual environments
 node_modules/
 dist/
 build/
 .venv/
 venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Python bytecode, builds & caches
 __pycache__/
 *.py[cod]
+*$py.class
+*.so
+.Python
 *.egg-info/
+*.egg
+
+# Testing & Linting cache
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
@@ -21,7 +37,10 @@ __pycache__/
 .coverage
 .coverage.*
 htmlcov/
+
+# Symphony Generated Models & Database
 .models/
+*.joblib
 .symphony.db*
 *.sqlite
 *.sqlite3
@@ -38,3 +57,4 @@ htmlcov/
 *.swp
 *.swo
 *.tmp
+
