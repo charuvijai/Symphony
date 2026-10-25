@@ -1,0 +1,11 @@
+store_id,state,city,store_format,store_sqft,store_factor
+TGT_001,CA,Los Angeles,Small,162856,0.939
+TGT_002,TX,Dallas,Standard,103304,0.769
+TGT_003,FL,Miami,Standard,176783,1.059
+TGT_004,NY,New York,Standard,134449,0.918
+TGT_005,IL,Chicago,Standard,147986,1.078
+TGT_006,PA,Philadelphia,Standard,154643,0.943
+TGT_007,OH,Columbus,Large,85764,1.091
+TGT_008,GA,Atlanta,Standard,173940,0.92
+TGT_009,NC,Charlotte,Standard,151027,0.88
+TGT_010,WA,Seattle,Standard,103494,0.998

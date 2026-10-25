@@ -1,0 +1,6 @@
+supplier_id,supplier_name,avg_lead_time_days,otif_pct,fill_rate_pct,avg_stockout_rate,total_stockout_units,avg_inventory,total_inventory_cost
+SUP_001,Alpha Consumer Goods,2.0,0.97,0.99,0.0,0,106.00314814814814,1519717.62
+SUP_002,Beta Distribution,4.0,0.94,0.97,0.0,0,163.33863636363637,1616837.16
+SUP_003,Gamma Imports,7.0,0.88,0.91,0.0,0,212.84605902777778,3993079.66
+SUP_004,Delta National,3.0,0.95,0.98,0.0,0,127.57942307692308,1681300.58
+SUP_005,Epsilon Foods,5.0,0.92,0.95,0.0,0,153.15503703703703,2617969.98

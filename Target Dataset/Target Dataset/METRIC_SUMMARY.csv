@@ -1,0 +1,16 @@
+metric,value
+Rows,126000
+Unique SKUs,70
+Unique Stores,10
+Date Range,2026-02-01 to 2026-07-30
+Total Actual Units,2070498
+Total Forecast Units,2075097.78
+Bias %,0.22
+MAPE %,10.5
+WAPE %,10.49
+Stockout Rate %,0.0
+Total Stockout Units,0
+Average Safety Stock,18.99
+Average Reorder Point,90.27
+Average Inventory Turnover,43.29
+Total Estimated Inventory Cost,11428905.0
